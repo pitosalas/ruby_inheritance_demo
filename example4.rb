@@ -1,4 +1,3 @@
-
 class Character
   attr_reader :location, :velocity
   def initialize(features)
